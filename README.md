@@ -1,2 +1,2 @@
 # Portal_Das_Formas
-Hora de pensar! Hoje vamos desenvolver um programa feito com vários outros programas utilizando um conceito de software modulado, feito com partes independentes.  O objetivo é desenvolver uma plataforma para funcionários do hotel usarem, não os hóspedes. 
+Seja bem-vindo ao Desafio Aventura Geométrica! Neste emocionante exercício de lógica de programação, você vai mergulhar em um mundo cheio de formas geométricas e desafios matemáticos. Vamos combinar habilidades de codificação com criatividade na criação de um projeto web incrível usando HTML, CSS e JavaScript! 
